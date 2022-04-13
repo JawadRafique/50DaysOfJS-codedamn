@@ -1,0 +1,2 @@
+1- Math.random() will always return value between 0.1 - 0.9
+2- .split won't work on Integers, have to convert it to String with .toString()
