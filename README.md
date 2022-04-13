@@ -1,2 +1,1 @@
-# 50DaysOfJS-codedamn
-#50DaysOfJS Challenge - codedamn
+# 50DaysOfJS Challenge-codedamn
